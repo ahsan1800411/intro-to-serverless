@@ -1,0 +1,6 @@
+serverless deploy -v >>> to deploy this app to aws lambda ;
+
+sls deploy -v >>>>> to deploy changes to the cloud
+sls deploy -f addTodo >>>>> to deploy only the addTodo function to the cloud
+
+cloudwatch=== >> to debug errors on the cloud use the cloudwatch service
